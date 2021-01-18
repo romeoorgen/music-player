@@ -15,22 +15,22 @@ const songs = [
   {
     name: 'romeo-1',
     displayName: 'Electric Chill Machine',
-    artist: 'romeo Design',
+    artist: 'Romeo Design',
   },
   {
     name: 'romeo-2',
     displayName: 'Seven Nation Army (Remix)',
-    artist: 'romeo Design',
+    artist: 'Romeo Design',
   },
   {
     name: 'romeo-3',
     displayName: 'Goodnight, Disco Queen',
-    artist: 'romeo Design',
+    artist: 'Romeo Design',
   },
   {
     name: 'metric-1',
     displayName: 'Front Row (Remix)',
-    artist: 'Metric/romeo Design',
+    artist: 'Metric/Romeo Design',
   },
 ];
 
